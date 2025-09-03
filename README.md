@@ -14,5 +14,6 @@ Some notes of AI Repositories, mainly in the form of code annotations (some in ä
 ## Pull Notes
 I should clone with my user name (and those private ssh repos will pass authentication):
 ```
-git clone --recurse-submodules git@github.com:crd2333/AI-Repo-Notes.git
+git clone --recurse-submodules --shallow-submodules git@github.com:crd2333/AI-Repo-Notes.git
 ```
+> Use shallow clone to only get the latest commit of each submodule, saving space and time.

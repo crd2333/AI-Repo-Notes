@@ -1,12 +1,16 @@
 [submodule "3DGS_NOTES"]
 	path = 3DGS_NOTES
 	url = https://github.com/crd2333/3DGS_NOTES.git
+	shallow = 1
 [submodule "Learning-OpenGL"]
 	path = Learning-OpenGL
 	url = https://github.com/crd2333/Learning-OpenGL.git
+	shallow = 1
 [submodule "Learning-Vulkan"]
 	path = Learning-Vulkan
 	url = https://github.com/crd2333/Learning-Vulkan.git
+	shallow = 1
 [submodule "MeshAnythingV2-Notes"]
 	path = MeshAnythingV2-Notes
 	url = git@github.com:crd2333/MeshAnythingV2-Notes.git
+	shallow = 1
