@@ -1,0 +1,9 @@
+[submodule "3DGS_NOTES"]
+	path = 3DGS_NOTES
+	url = https://github.com/crd2333/3DGS_NOTES.git
+[submodule "Learning-OpenGL"]
+	path = Learning-OpenGL
+	url = https://github.com/crd2333/Learning-OpenGL.git
+[submodule "Learning-Vulkan"]
+	path = Learning-Vulkan
+	url = https://github.com/crd2333/Learning-Vulkan.git
