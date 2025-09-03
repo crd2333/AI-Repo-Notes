@@ -7,3 +7,6 @@
 [submodule "Learning-Vulkan"]
 	path = Learning-Vulkan
 	url = https://github.com/crd2333/Learning-Vulkan.git
+[submodule "MeshAnythingV2-Notes"]
+	path = MeshAnythingV2-Notes
+	url = git@github.com:crd2333/MeshAnythingV2-Notes.git
